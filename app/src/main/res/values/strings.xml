@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS232</string>
+    <string-array name="KotaTujuan">
+        <item>Surabaya</item>
+        <item>Malang</item>
+        <item>Nganjuk</item>
+        <item>Jogja</item>
+        <item>Bali</item>
+    </string-array>
+</resources>
