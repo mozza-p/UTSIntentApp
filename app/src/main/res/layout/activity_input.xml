@@ -4,6 +4,16 @@
     android:orientation="vertical"
     android:padding="16dp">
 
+    <TextView
+        android:id="@+id/aplikasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Pemesanan Tiket Bis"
+        android:textSize="20dp"
+        android:gravity="center"
+        android:padding="8dp"/>
+
+
     <EditText
         android:id="@+id/email"
         android:layout_width="match_parent"
